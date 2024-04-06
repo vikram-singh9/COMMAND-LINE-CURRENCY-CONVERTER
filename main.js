@@ -30,11 +30,3 @@ let amount = userInput.amount;
 let baseAmount = amount / fromAmount;
 let convertedAmount = baseAmount * toAmount;
 console.log(convertedAmount);
-// let data:any={
-//     name:'vikram',
-//     age:22,
-//     rollNumber:'f2321',
-//     address:'karachi',
-// };
-// let property = 'age'
-// console.log(data[property]);
